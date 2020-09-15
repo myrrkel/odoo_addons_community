@@ -11,6 +11,7 @@
     'category': 'Extra Tools',
     'depends': [
         'contacts',
+        'website_google_map',
     ],
     'data': [
         'views/google_places_template.xml',
