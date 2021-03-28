@@ -10,7 +10,7 @@ This module is provided by :
 
 Improvements by [Myrrkel](https://github.com/myrrkel):
  - add README.md
- - Add email_google_drive_upload template in xml data.
+ - Add email_google_drive_upload mail template in xml data.
  - Fix error on email notification, remove auto_backup_upload useless dependency.
 
 
