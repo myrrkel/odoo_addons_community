@@ -5,8 +5,14 @@ This module is provided by :
  - Pablo Adarfio - *Tecno-Go*
  - Aurel Balanay - *Evanscor Technology Solutions Inc*
 
-
 **Source**: https://apps.odoo.com/apps/modules/13.0/backup_upload_google_drive/
+ 
+
+Improvements by [Myrrkel](https://github.com/myrrkel):
+ - add README.md
+ - Add email_google_drive_upload template in xml data.
+ - Fix auto_backup_upload useless dependency.
+
 
 ### Automatically Upload of Backups to Google Drive
 
